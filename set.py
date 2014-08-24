@@ -1,4 +1,5 @@
 from random import sample
+
 #creating a set -: direct elements
 x = set(["Python", "Java", "Pearl", "Python"])
 print(x)
